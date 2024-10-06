@@ -13,6 +13,7 @@ except ModuleNotFoundError:
 
     from dhooks import Webhook
     from pystyle import Write, Colors, Colorate, System
+    from colorama import Fore
 
 # ---Design Related---
 
